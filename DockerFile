@@ -1,0 +1,1 @@
+FROM eventuateio/eventuate-zookeeper:0.4.0.RELEASE
